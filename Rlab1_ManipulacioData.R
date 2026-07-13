@@ -1,6 +1,5 @@
 ### ==================================================
 ### Estadística Grau Matemàtiques
-### marta.bofill.roig@upc.edu // mireia.besalu@upc.edu
 ### Rlab1: Manipulació de dades i descriptiva (1)
 ### ==================================================
 
