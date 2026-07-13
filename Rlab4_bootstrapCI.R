@@ -1,6 +1,5 @@
 ### ==================================================
 ### Estadística Grau Matemàtiques
-### marta.bofill.roig@upc.edu // mireia.besalu@upc.edu
 ### Rlab4: CI BOOTSTRAP
 ### ================================================== 
 
